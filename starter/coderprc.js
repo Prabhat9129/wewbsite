@@ -7,7 +7,7 @@ Have the function abCheck(str) take the str parameter being passed and return
  true because there is exactly three characters between a and b). Otherwise
  return the string false.
 */
-
+console.log('hello to change');
 const v1 = function (str) {
   let searchchar = ['a', 'b'];
   let gap = 3;
