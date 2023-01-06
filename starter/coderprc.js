@@ -9,6 +9,7 @@ Have the function abCheck(str) take the str parameter being passed and return
 */
 console.log('hello to change');
 const v1 = function (str) {
+ <h1> check confilct from main brance</h1>
   let searchchar = ['a', 'b'];
   let gap = 3;
   if (str.length < gap) {
