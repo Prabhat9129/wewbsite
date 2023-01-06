@@ -1,11 +1,11 @@
 <?php  
 this is php file add inti main2 branch for practice
 this istfugu also seprabhatcond change from main branch not master branch
-this helkiuikkis second hellochange hello  from master1 branch
+this helkiuikkis secondrrf hellochange hello12233455  from master1 branch
 and solve the conflict here
-  mjmjmjm
-yiggih hello 
+  mjmjmjmsggs
+yiggih hell bbo 
 fromgtf new bruiiuanch
-change is yhuiiuhere
+change is yhuiibshbsgdshgfduhere
   gyii
 ?>
