@@ -1,5 +1,5 @@
 //Easy
-//easy from conflict
+//easy from conflictbranch raise conflict
 //1.
 /*
 Have the function abCheck(str) take the str parameter being passed and return
