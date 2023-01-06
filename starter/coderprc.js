@@ -1,4 +1,5 @@
 //Easy
+//easy from conflict
 //1.
 /*
 Have the function abCheck(str) take the str parameter being passed and return
@@ -9,9 +10,9 @@ Have the function abCheck(str) take the str parameter being passed and return
 */
 console.log('hello to change');
 console.log('hello change from master branch ');
-<h1> check merge confict from brach master</h1>
+<h1> check merge confict from brach master</h1>;
 const v1 = function (str) {
- <h1> check confilct from main brance</h1>
+  <h1> check confilct from main brance</h1>;
   let searchchar = ['a', 'b'];
   let gap = 3;
   if (str.length < gap) {
